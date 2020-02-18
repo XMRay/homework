@@ -1,9 +1,0 @@
-D:\vsprojects\CalculatorWFA\bin\Debug\CalculatorWFA.exe.config
-D:\vsprojects\CalculatorWFA\bin\Debug\CalculatorWFA.exe
-D:\vsprojects\CalculatorWFA\bin\Debug\CalculatorWFA.pdb
-D:\vsprojects\CalculatorWFA\obj\Debug\CalculatorWFA.csprojAssemblyReference.cache
-D:\vsprojects\CalculatorWFA\obj\Debug\CalculatorWFA.Form1.resources
-D:\vsprojects\CalculatorWFA\obj\Debug\CalculatorWFA.Properties.Resources.resources
-D:\vsprojects\CalculatorWFA\obj\Debug\CalculatorWFA.csproj.GenerateResource.cache
-D:\vsprojects\CalculatorWFA\obj\Debug\CalculatorWFA.exe
-D:\vsprojects\CalculatorWFA\obj\Debug\CalculatorWFA.pdb
