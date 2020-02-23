@@ -27,11 +27,6 @@ namespace Caculator_WFA
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            signL.Text = "+";
-            c = "+";
-        }
 
         private void t1_TextChanged(object sender, EventArgs e)
         {
@@ -83,14 +78,20 @@ namespace Caculator_WFA
                                 t3.Text = "请输入运算";
                                 break;
                         }
-                        button1.Text = "点我能清空";
+
 
                     }
 
                 } 
         }
-            
 
+
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            signL.Text = "+";
+            c = "+";
+        }
 
         private void button3_Click(object sender, EventArgs e)
         {
