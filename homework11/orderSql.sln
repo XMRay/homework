@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orderSql", "orderSql.csproj", "{8AC8FA14-6FD3-419F-85C3-89F6B9EB37CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC8FA14-6FD3-419F-85C3-89F6B9EB37CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC8FA14-6FD3-419F-85C3-89F6B9EB37CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC8FA14-6FD3-419F-85C3-89F6B9EB37CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC8FA14-6FD3-419F-85C3-89F6B9EB37CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67353E3E-4B6C-43D7-B7B6-7240B8785254}
+	EndGlobalSection
+EndGlobal
